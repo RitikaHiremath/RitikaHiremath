@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I am Ritika 👋
 
-<!--
-**RitikaHiremath/RitikaHiremath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied AI Engineer | M.Sc. CS, Saarland University (2026)
+Building production-grade agentic AI systems with LangGraph, 
+Google ADK, MCP, and RAG.
 
-Here are some ideas to get you started:
+🔧 Stack: Python · LangGraph · LangChain · FastAPI · 
+          Google ADK · MCP · A2A · ChromaDB · HuggingFace · 
+          PyTorch · Docker · GitHub Actions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏅 Certifications: Anthropic MCP (Dec 2025) · 
+                   Google/Kaggle AI Agents + A2A (Dec 2025) · 
+                   HuggingFace Agentic AI (Oct 2025)
+
+📌 Open to AI Engineer roles in Germany and EU
+🔗 linkedin.com/in/ritikahiremath
